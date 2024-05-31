@@ -1,0 +1,1 @@
+import{o,b as t,f as s}from"../modules/vue-FaL-ku9S.js";import{_ as r}from"../index-CoZ2Pofz.js";const n={},a={class:"slidev-layout default"};function c(e,l){return o(),t("div",a,[s(e.$slots,"default")])}const _=r(n,[["render",c],["__file","/home/runner/work/genaiscript/genaiscript/node_modules/@slidev/client/layouts/default.vue"]]);export{_ as I};
